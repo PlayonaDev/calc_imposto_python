@@ -1,8 +1,6 @@
-salario = 0
-
 salario = float(input('Digite seu salário:'))
 
-if salario <= 19003.98:
+if salario <= 1903.98:
     print(f'Isento de IRFF')
     print(f'Seu salário: {salario}')
 
